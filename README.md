@@ -18,13 +18,13 @@ My one, lonely braincell (which can think of some nice poetry but not a working 
 ### Gemini from Google
 ### Visual Studio
 ### Public APIs:
-### 1. [Metaphorsum API](https://publicapi.dev/metaphorsum-api)
+### 1. [Metaphorsum API](https://github.com/kylestetz/metaphorpsum)
 With a single click, the app fetches a complex, metaphoric sentence to spark inspiration for your next stanza.
 
 ### 2. [Wordle API Data](https://github.com/cr2007/mcp-wordle-python)
 Fetches data for today's Wordle and was meant to be an easter egg - but I didn't manage to make it work.
 
-### 3. Web Selection API
+### 3. [Web Selection API](https://github.com/w3c/selection-api/)
 Allows the application to precisely capture and analyze the structure of selected words, trigger context-specific actions (like finding rhymes for a specific word), and manage cursor behavior without breaking the writing flow.
 
 ### A lot of Monsters to make my braincell work for 5 hours at night
