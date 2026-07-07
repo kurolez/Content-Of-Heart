@@ -11,11 +11,10 @@ Basically thinking of an idea, setting up the base, AI enhanced it, I repaired t
 
 ### SO I PRESENT: Content of Heart
 ### A program divided into two sectors:
-### 1. Dictionary of Heart, a simple editor which lets you type the word and tells you the rhyme, so you can use it to type the whole poem - it only helps with words,
-   you have to come up with the rest.
-### 2. Typewriter of Heart, a complex editor watching syllables, guarding your rhyme, and even searching for near rhymes (film/kiln, sounds almost the same) and synonymes.
+1. Dictionary of Heart, a simple editor which lets you type the word and tells you the rhyme, so you can use it to type the whole poem - it only helps with words, you have to come up with the rest.
+2. Typewriter of Heart, a complex editor watching syllables, guarding your rhyme, and even searching for near rhymes (film/kiln, sounds almost the same) and synonymes.
 ### WHAT I USED:
-### My one, lonely braincell (which can think of some nice poetry but not a working program apparently)
+My one, lonely braincell (which can think of some nice poetry but not a working program apparently)
 ### Gemini from Google
 ### Visual Studio
 ### Public APIs:
