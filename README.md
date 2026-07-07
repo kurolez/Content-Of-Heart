@@ -18,10 +18,10 @@ My one, lonely braincell (which can think of some nice poetry but not a working 
 ### Gemini from Google
 ### Visual Studio
 ### Public APIs:
-### 1. Metaphorpsum API
+### 1. [Metaphorsum API](https://publicapi.dev/metaphorsum-api)
 With a single click, the app fetches a complex, metaphoric sentence to spark inspiration for your next stanza.
 
-### 2. Wordle API Data
+### 2. [Wordle API Data](https://github.com/cr2007/mcp-wordle-python)
 Fetches data for today's Wordle and was meant to be an easter egg - but I didn't manage to make it work.
 
 ### 3. Web Selection API
@@ -29,6 +29,8 @@ Allows the application to precisely capture and analyze the structure of selecte
 
 ### A lot of Monsters to make my braincell work for 5 hours at night
 
+HTML5, CSS3 (moderní UI přizpůsobené pro spisovatele), JavaScript (ES6+), Python (*yeah surely I used all of that.. I used the little knowledge of Python i have*)
+Wrapped in [Electron](https://www.electronjs.org/)
 As said on the beginning, i do not claim anything. Because 80% of the work is from AI, so you can use it up however you want (but tag me and tell me what you did).
 You can of course try to suggest updates, your braincells are definitely in bigger count and better than the lonely one i have.
 
