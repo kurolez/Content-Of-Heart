@@ -19,7 +19,7 @@ My one, lonely braincell (which can think of some nice poetry but not a working 
 ### Visual Studio
 ### Public APIs:
 ### 1. [Metaphorsum API](https://github.com/kylestetz/metaphorpsum)
-With a single click, the app fetches a complex, metaphoric sentence to spark inspiration for your next stanza.
+With a single click, the app fetches a complex, metaphoric sentence to spark inspiration.
 
 ### 2. [Wordle API Data](https://github.com/cr2007/mcp-wordle-python)
 Fetches data for today's Wordle and was meant to be an easter egg - but I didn't manage to make it work.
