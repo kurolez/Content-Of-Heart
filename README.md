@@ -29,7 +29,7 @@ Allows the application to precisely capture and analyze the structure of selecte
 
 ### A lot of Monsters to make my braincell work for 5 hours at night
 
-HTML5, CSS3 (moderní UI přizpůsobené pro spisovatele), JavaScript (ES6+), Python (*yeah surely I used all of that.. I used the little knowledge of Python i have*)
+HTML5, CSS3, JavaScript (ES6+), Python (*yeah surely I used all of that.. I used the little knowledge of Python i have*)
 Wrapped in [Electron](https://www.electronjs.org/)
 As said on the beginning, i do not claim anything. Because 80% of the work is from AI, so you can use it up however you want (but tag me and tell me what you did).
 You can of course try to suggest updates, your braincells are definitely in bigger count and better than the lonely one i have.
