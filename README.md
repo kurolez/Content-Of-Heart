@@ -9,16 +9,16 @@ I just sat at my PC at midnight with no idea what to do. I started to think abou
 i asked AI if it can repair it. I dont use AI that much, and I was surprised. So surprised that the fun originally taking 30 minutes took 5 hours to complete.
 Basically thinking of an idea, setting up the base, AI enhanced it, I repaired things, AI repaired more things 👨‍🦲 
 
-SO I PRESENT: Content of Heart
-A program divided into two sectors:
-1. Dictionary of Heart, a simple editor which lets you type the word and tells you the rhyme, so you can use it to type the whole poem - it only helps with words,
+### SO I PRESENT: Content of Heart
+### A program divided into two sectors:
+### 1. Dictionary of Heart, a simple editor which lets you type the word and tells you the rhyme, so you can use it to type the whole poem - it only helps with words,
    you have to come up with the rest.
-2. Typewriter of Heart, a complex editor watching syllables, guarding your rhyme, and even searching for near rhymes (film/kiln, sounds almost the same) and synonymes.
-WHAT I USED:
-My one, lonely braincell (which can think of some nice poetry but not a working program apparently)
-Gemini from Google
-Visual Studio
-Public APIs:
+### 2. Typewriter of Heart, a complex editor watching syllables, guarding your rhyme, and even searching for near rhymes (film/kiln, sounds almost the same) and synonymes.
+### WHAT I USED:
+### My one, lonely braincell (which can think of some nice poetry but not a working program apparently)
+### Gemini from Google
+### Visual Studio
+### Public APIs:
 ### 1. Metaphorpsum API
 With a single click, the app fetches a complex, metaphoric sentence to spark inspiration for your next stanza.
 
