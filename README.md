@@ -27,7 +27,7 @@ Fetches data for today's Wordle and was meant to be an easter egg - but I didn't
 ### 3. Web Selection API
 Allows the application to precisely capture and analyze the structure of selected words, trigger context-specific actions (like finding rhymes for a specific word), and manage cursor behavior without breaking the writing flow.
 
-A lot of Monsters to make my braincell work for 5 hours at night
+### A lot of Monsters to make my braincell work for 5 hours at night
 
 As said on the beginning, i do not claim anything. Because 80% of the work is from AI, so you can use it up however you want (but tag me and tell me what you did).
 You can of course try to suggest updates, your braincells are definitely in bigger count and better than the lonely one i have.
